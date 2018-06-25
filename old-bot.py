@@ -1,4 +1,4 @@
-# Classify complaints and send default msg
+# Chatbot classifes complaints and sends default msg
 
 # Importing the libraries
 import pandas as pd
